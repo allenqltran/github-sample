@@ -22,9 +22,9 @@ A geojson file was also obtained to also help visualize the FSA areas of Toronto
 
 # Files
 
-Summary Presentation
+[Summary Presentation](https://github.com/allenqltran/restaurant-project/blob/master/Opening%20a%20Restaurant%20in%20Toronto%20-%20Summary.pptx)
 
-Report Summary
+[Report Summary](https://github.com/allenqltran/restaurant-project/blob/master/Opening%20a%20Restaurant%20in%20Toronto%20-%20Report.docx)
 
-IPython Notebook
+[IPython Notebook](https://github.com/allenqltran/restaurant-project/blob/master/Opening%20a%20Restaurant%20in%20Toronto%20-%20Notebook.ipynb)
 
