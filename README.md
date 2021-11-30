@@ -15,7 +15,7 @@ From the Canada-wide census data, a subset of this data from Toronto FSA's can b
 ### Restaurant (Venue) Data
 Foursquare data will be used to obtain common venues for grouped Toronto neighbourhoods. This can then be used to analyze whether similar neighbourhoods have a lack of venue (restaurant) and hence a potential business opportunity.
 
-#### Supporting Data
+### Supporting Data
 Geo coordinate information for the forward sortation areas of Toronto is also used to be able to visualize/map the results of the analysis.
 
 A geojson file was also obtained to also help visualize the FSA areas of Toronto.
