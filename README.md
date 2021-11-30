@@ -19,3 +19,10 @@ Foursquare data will be used to obtain common venues for grouped Toronto neighbo
 Geo coordinate information for the forward sortation areas of Toronto is also used to be able to visualize/map the results of the analysis.
 
 A geojson file was also obtained to also help visualize the FSA areas of Toronto.
+
+# Files
+
+Summary Presentation
+Report Summary
+IPython Notebook
+
