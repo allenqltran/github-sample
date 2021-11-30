@@ -23,6 +23,8 @@ A geojson file was also obtained to also help visualize the FSA areas of Toronto
 # Files
 
 Summary Presentation
+
 Report Summary
+
 IPython Notebook
 
