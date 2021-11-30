@@ -1,4 +1,4 @@
-# Capstone Project - Opening a Restaurant in Toronto
+# Opening a Restaurant in Toronto (Capstone Project)
 
 ## Problem
 Location, location, location. Similar to looking for a place to live, the location of a new business is the most important decision an entrepreneur can make, especially for a service industry such as a restaurant or hairstylist where people will generally not travel too far from their homes to go. Where would be a good place to start a new business? Where would be a good place to start a new franchise of an existing successful business? Specifically, this assessment is targeted to help entrepreneurs who want to open a new restaurant in the City of Toronto and are looking to answer the question of where best to open the restaurant and what type of restaurant to open.
