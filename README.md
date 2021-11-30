@@ -10,7 +10,7 @@ Census data provides a wealth of information including family sizes, household i
 ### Census Data
 The Government of Canada's last census data was undertaken in 2016 and has been provided on the Statistics Canada website. The data can be obtained broken down by forward sortation areas (FSA), which is the first 3 characters of a Canada postal code, and thus allows for the grouping of information by neighbourhoods. However, all the pieces of information for each FSA is stored as name/value pairs and need to be transformed into tables that can be used for neighbourhood analysis. Also, certain FSA are not residential areas so they will need to be removed.
 
-From the Canada-wide census data, a subset of this data from Toronto FSA's can be obtained. There are over 2000 data collected per FSA and a subset, specifically age gruops, family sizes, and household income will be used to group similar neighbourhoods. Because each FSA in Toronto will have different population sizes, a percentage distribution will give us a better measure of similarity amongs neighbourhoods.
+From the Canada-wide census data, a subset of this data from Toronto FSA's can be obtained. There are over 2000 data collected per FSA and a subset, specifically age groups, family sizes, and household income will be used to group similar neighbourhoods. Because each FSA in Toronto will have different population sizes, a percentage distribution will give us a better measure of similarity amongs neighbourhoods.
 
 ### Restaurant (Venue) Data
 Foursquare data will be used to obtain common venues for grouped Toronto neighbourhoods. This can then be used to analyze whether similar neighbourhoods have a lack of venue (restaurant) and hence a potential business opportunity.
